@@ -24,7 +24,7 @@ npm install
 <p>2. Add names that you want to check if its available: (should be lowercase)</p>
 
 ```
-["adnan" "siddiqui"] > 'names.json'
+["adnan", "siddiqui"] > 'names.json'
 ```
 
 <p>3. Now start scrapping usernames:</p>
