@@ -59,7 +59,7 @@ const start = async () => {
     for (let i = 0; i < arr.length; i++) {
         await getData(arr[i]);
     }
-    console.log("Available names are saved in 'availableNear.json' file");
+    console.log("\nAvailable names are saved in 'availableNear.json' file\n");
 };
 
 start();
