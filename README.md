@@ -1,4 +1,4 @@
-<h1 align="center" id="title">newAccountScraper</h1>
+<h1 align="center" id="title">💡nearAccountScraper💡</h1>
 <p align="center"><img src="https://socialify.git.ci/adnansid99/nearAccountScraper/image?font=Rokkitt&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Overlapping%20Hexagons&amp;theme=Auto" alt="project-image"></p>
 
 <p id="description">This project is designed to scrape all unused usernames from 'near.org' given by a user.</p>
