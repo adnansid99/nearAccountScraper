@@ -42,3 +42,8 @@ Technologies used in the project:
 *   Javascript
 *   Node.js
 *   Axios
+
+
+<h3>Credit:</h3>
+
+ - <a href="https://github.com/adnansid99">Adnan Siddiqui</a>
