@@ -1,0 +1,22 @@
+{
+  "name": "nearaccountscraper",
+  "version": "1.0.0",
+  "description": "This project is designed to scrape all unused usernames from 'near.org' given by a user.",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adnansid99/nearAccountScraper"
+  },
+  "author": "Adnan Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adnansid99/nearAccountScraper/issues"
+  },
+  "homepage": "https://github.com/adnansid99/nearAccountScraper#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
