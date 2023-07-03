@@ -1,4 +1,4 @@
-<p align="center"><img src="https://socialify.git.ci/adnansid99/nearAccountScraper/image?font=Rokkitt&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Overlapping%20Hexagons&amp;theme=Auto" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/adnansid99/nearAccountScraper/image?font=Rokkitt&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Overlapping%20Hexagons&amp;theme=Light" alt="project-image"></p>
 
 
 
