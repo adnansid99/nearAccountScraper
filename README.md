@@ -5,7 +5,7 @@
 
 <br>
   
-<h2> Features</h2>
+<h2>⚙️ Features</h2>
 
 
 Here're some of the project's best features:
