@@ -44,6 +44,6 @@ Technologies used in the project:
 *   Axios
 
 
-<h3>Credit:</h3>
+<h3>🥷 Credit:</h3>
 
  - <a href="https://github.com/adnansid99">Adnan Siddiqui</a>
