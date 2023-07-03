@@ -33,7 +33,7 @@ npm install
 npm start
 ```
 
- <br>
+ 
   
 <h2>💻 Built with</h2>
 
@@ -43,7 +43,7 @@ Technologies used in the project:
 *   Node.js
 *   Axios
 
-
+<hr>
 <h3>🥷 Credit:</h3>
 
  - <a href="https://github.com/adnansid99">Adnan Siddiqui</a>
